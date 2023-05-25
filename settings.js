@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "goI65jkZiwozLVX" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -21,20 +21,67 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 24
+Ready sewa bot
+
+1 Minggu : 3k⚡
+
+2 Minggu : 5k ⚡
+
+1 bulan : 8k⚡
+
+1 tahun : 12k⚡
+
+permanen : 15k⚡
+
+Ready Jadi Bot + Owner
+
+Run Panel :
+
+1 Minggu : 5k🏷️
+
+2 Minggu : 8k🏷️
+
+1 bulan : 10k🏷️
+
+1 Tahun : _Belum Tersedia_🏷️
+
+Permanen : _Belum Tersedia_🏷️
+
+Run VPS ( Lebih Kencang + Fast Respond )
+
+1 Minggu : 10k🌟
+
+2 Minggu : 13k🌟
+
+1 Bulan : 25k🌟
+
+1 Tahun : _Belum Tersedia_🌟
+
+Permanen : _Belum Tersedia_🌟
+
+*Keuntungan Jadi Bot*
+
+* Script Sudah Tersedia PushKontak
+
+* Bisa Buat Nama Bot Sendiri
+
+* Bisa Buat Nama Owner
+
+
+* Bisa Jualan Premium Member
 `
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
-global.antidelete = false // anti delete
+global.antidelete = true // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call, jika true maka org yg nelpon bot auto di blokir
 global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 global.autolevelup = true
-global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
-global.auto_antilink2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
+global.auto_antilink = true //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
+global.auto_antilink2 = false  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
 global.auto_badword2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
 global.auto_antiwame = false  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
